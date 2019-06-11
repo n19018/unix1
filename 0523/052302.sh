@@ -1,0 +1,1 @@
+grep network.conf /etc
