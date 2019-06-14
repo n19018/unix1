@@ -1,1 +1,1 @@
-grep network.conf /etc
+find /etc -type f | grep network.conf

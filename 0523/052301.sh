@@ -1,1 +1,1 @@
-grep bash -n /bin/bash /etc/passwd
+grep bash /etc/passwd
